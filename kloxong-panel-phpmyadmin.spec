@@ -103,7 +103,7 @@ rm -rf %{kloxocp}/%{packagename}/config.inc.php.*
 - change product name to kloxong
 - add obsolete for kloxomr 
 
-* Sun May 01 2017 Mustafa Ramadhan <mustafa@bigraf.com> - 4.6.6-1.mr
+* Mon May 01 2017 Mustafa Ramadhan <mustafa@bigraf.com> - 4.6.6-1.mr
 - update to 4.6.6
 
 * Wed Dec 09 2015 Mustafa Ramadhan <mustafa@bigraf.com> - 4.4.15.1-1.mr
@@ -155,7 +155,7 @@ rm -rf %{kloxocp}/%{packagename}/config.inc.php.*
 * Sun Jan 25 2015 Mustafa Ramadhan <mustafa@bigraf.com> - 4.3.8-1.mr
 - update
 
-* Sun Jan 10 2015 Mustafa Ramadhan <mustafa@bigraf.com> - 4.3.6-1.mr
+* Sat Jan 10 2015 Mustafa Ramadhan <mustafa@bigraf.com> - 4.3.6-1.mr
 - update
 
 * Sun Jan 04 2015 Mustafa Ramadhan <mustafa@bigraf.com> - 4.3.4-1.mr
@@ -183,7 +183,7 @@ rm -rf %{kloxocp}/%{packagename}/config.inc.php.*
 * Tue Oct 21 2014 Mustafa Ramadhan <mustafa@bigraf.com> - 4.2.10.1-1.mr
 - update
 
-* Fri Oct 09 2014 Mustafa Ramadhan <mustafa@bigraf.com> - 4.2.9.1-1.mr
+* Thu Oct 09 2014 Mustafa Ramadhan <mustafa@bigraf.com> - 4.2.9.1-1.mr
 - update
 
 * Sat Sep 27 2014 Mustafa Ramadhan <mustafa@bigraf.com> - 4.2.9-1.mr
@@ -192,7 +192,7 @@ rm -rf %{kloxocp}/%{packagename}/config.inc.php.*
 * Sun Sep 07 2014 Mustafa Ramadhan <mustafa@bigraf.com> - 4.2.8-1.mr
 - update
 
-* Wed Aug 31 2014 Mustafa Ramadhan <mustafa@bigraf.com> - 4.2.7.1-1.mr
+* Sun Aug 31 2014 Mustafa Ramadhan <mustafa@bigraf.com> - 4.2.7.1-1.mr
 - update
 
 * Sun Jul 27 2014 Mustafa Ramadhan <mustafa@bigraf.com> - 4.2.6-1.mr
@@ -225,7 +225,7 @@ rm -rf %{kloxocp}/%{packagename}/config.inc.php.*
 * Fri Nov 8 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 4.0.9-1.mr
 - update to 4.0.9
 
-* Tue Sep 23 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 4.0.7-1.mr
+* Mon Sep 23 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 4.0.7-1.mr
 - update to 4.0.6
 
 * Tue Sep 10 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 4.0.6-1.mr
@@ -417,11 +417,11 @@ rm -rf %{kloxocp}/%{packagename}/config.inc.php.*
 - Upstream released 3.2.2 (bug fixes)
 - build for EOL fedora and EL
 
-* Wed Jun 30 2009 Remi Collet <rpms@famillecollet.com> 3.2.1-1.###.remi
+* Tue Jun 30 2009 Remi Collet <rpms@famillecollet.com> 3.2.1-1.###.remi
 - Upstream released 3.2.1 (bug fixes and a new language: Uzbek)
 - build for EOL fedora and EL
 
-* Wed Jun 30 2009 Remi Collet <rpms@famillecollet.com> 3.2.0.1-1.###.remi
+* Tue Jun 30 2009 Remi Collet <rpms@famillecollet.com> 3.2.0.1-1.###.remi
 - Upstream released 3.2.0.1 (security release)
 - build for EOL fedora and EL
 
