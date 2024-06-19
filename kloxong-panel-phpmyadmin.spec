@@ -1,13 +1,13 @@
 #%define kloxo /usr/local/lxlabs/kloxo/httpdocs/thirdparty
 %define kloxocp /home/kloxo/httpd/cp
-%define productname kloxong-panel
+%define productname kloxo-panel
 %define packagename phpMyAdmin
 %define packagename2 phpmyadmin
 
 Name: %{productname}-%{packagename2}
 Version: 4.9.1
 #Release: 1%{?dist}
-Release: 1.kng%{?dist}
+Release: 2.kng%{?dist}
 Summary: Web based MySQL browser written in php
 
 Group: Applications/Internet
@@ -99,6 +99,9 @@ rm -rf %{kloxocp}/%{packagename}/config.inc.php.*
 
 
 %changelog
+* Wed Jun 19 2024 John Parnell Pierce <john@luckytanuki.com>
+- Change product name back to Kloxo
+
 * Mon Jan 29 2018 John Parnell Pierce <john@luckytanuki.com> 
 - change product name to kloxong
 - add obsolete for kloxomr 
